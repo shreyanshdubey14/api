@@ -30,7 +30,7 @@ const axios = require('axios');
          }
        };
 
-       // Send the transformed response
+       // Send the traansformed response
        res.status(200).json(openaiResponse);
      } catch (error) {
        console.error(error);
