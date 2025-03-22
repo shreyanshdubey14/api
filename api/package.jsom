@@ -1,0 +1,8 @@
+{
+  "name": "vercel-reverse-proxy",
+  "version": "1.0.0",
+  "main": "api/completions.js",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
